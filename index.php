@@ -1,5 +1,4 @@
 <?php
   echo "hello world"
   echo "hello pidor"
-  echo "ne materis"
-?>
+  echo "nu che eba suka blyat"
